@@ -1,8 +1,9 @@
 import React from "react";
+import Part from "../part/Pat";
 
 const Home = () => {
   return (
-    <div>
+    <div className=" ">
       <div class="hero min-h-screen bg-base-200">
         <div class="hero-content text-center">
           <div class="max-w-md">
@@ -16,6 +17,7 @@ const Home = () => {
           </div>
         </div>
       </div>
+      <Part></Part>
     </div>
   );
 };

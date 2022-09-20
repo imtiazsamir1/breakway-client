@@ -125,7 +125,7 @@ const Login = () => {
           </form>
           <p>
             <small>
-              New to Doctors Portal{" "}
+              New to breakway{" "}
               <Link className="text-primary" to="/signup">
                 Create New Account
               </Link>
